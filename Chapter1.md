@@ -24,7 +24,7 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Reyes Valnzuela, Renato German | U20221B471 |
 |     Luza Carhuamaca, Jose Adrian      | U202213404 |
-|   (Usuario)  | U20211g296 |
+|   Cruz Ticona, Aaron Alejandro | U202213502 |
 |       (Usuario)  | U202221876 |
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
@@ -152,12 +152,12 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+            <img src="AaronCruz.png" alt="AaronCruzPhoto" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (Texto aqui)
+            Cruz Ticona, Aaron Alejandro
         </td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto aqui)
+        Mi nombre es Aaron Cruz, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable y en especial, con ganas de ampliar mis conocimientos mientras desarrollamos el proyecto en compañia de un trabajo colaborativo eficaz.
         </td>
     </tr>
     <tr align="center">
@@ -306,16 +306,52 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 
 <div id='1.3.'><h3> 1.3. Segmentos objetivos</h3></div>
 
-(Texto aqui)
+**Segmento 1: Abogados Especializados en Derecho Médico**
 
-● Segmento demográfico
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y Femenino
+- **Edad:** Entre 30 y 55 años
+- **Nivel Socioeconómico:** Clases A y B (Clase alta y clase media alta)
+- **Ocupación:** Abogados especializados en derecho médico o aquellos en proceso de especialización.
+  
+**Aspectos Geográficos:**
+- **Nacionalidad:** Peruana
+- **Zona Geográfica de Residencia:** Urbana
+- **Departamento:** Lima Metropolitana
 
+**Aspectos Psicográficos:**
 
-● Segmento geográfico
+- Abogados con un alto nivel de compromiso con su especialización en derecho médico.
+- Abogados que buscan herramientas tecnológicas que permita gestionar la carga de trabajo.
+- Profesionales que valoran la actualización constante sobre legislación en el campo médico.
+- Abogados que priorizan la eficiencia, la seguridad y la confidencialidad en la comunicación con clientes.
 
+**Aspectos Conductuales:**
+- **Uso de tecnología:** Utilizan herramientas digitales para gestionar casos y están abiertos a nuevas soluciones tecnológicas que mejoren su eficiencia.
+- **Preferencias de trabajo:** Prefieren soluciones de software que les permitan trabajar de forma remota o gestionar sus casos desde una perspectiva moderna.
+- **Comportamiento de compra:** Dispuestos a pagar servicios que mejoren su eficiencia y les proporcionen acceso a información de alta calidad.
 
-● Segmento psicográfico
+<br>
 
+**Segmento 2: Doctores que Enfrentan Problemas Legales por Mala Praxis**
 
-● Segmento Conductual
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y Femenino
+- **Edad:** Entre 35 y 60 años
+- **Nivel Socioeconómico:** Clases A y B (Clase alta y clase media alta)
+- **Ocupación:** Médicos de diversas especialidades.
 
+**Aspectos Geográficos:**
+- **Nacionalidad:** Peruana
+- **Zona Geográfica de Residencia:** Urbana
+- **Departamento:** Lima Metropolitana.
+
+**Aspectos Psicográficos:**
+- Médicos que buscan defensa legal especializada en su campo y valoran la atención personalizada de abogados con experiencia en su especialidad médica.
+- Profesionales del sector salud que priorizan la confidencialidad, la confianza y la seguridad en las comunicaciones legales.
+- Médicos que están comprometidos con la resolución rápida y eficiente de los problemas legales que enfrentan, sin comprometer su integridad profesional.
+
+**Aspectos Conductuales:**
+- **Preocupación por la reputación profesional:** Tienen un alto nivel de preocupación por su imagen profesional.
+- **Uso de tecnología:** Abiertos a plataformas digitales que les proporcionen acceso a abogados especializados para manejar sus preocupaciones.
+- **Comportamiento de compra:** Dispuestos a invertir en servicios legales especializados.
