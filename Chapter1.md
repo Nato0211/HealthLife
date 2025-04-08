@@ -23,8 +23,8 @@ width=50%"/>
 |                Nombre                 |   Código   |
 | :-----------------------------------: | :--------: |
 | Reyes Valnzuela, Renato German | U20221B471 |
-|     Luza Carhuamaca, Jose Adrian      | U202213404 |
-|   Cruz Ticona, Aaron Alejandro | U202213502 |
+|  Luza Carhuamaca, Jose Adrian      | U202213404 |
+|  Cruz Ticona, Aaron Alejandro | U202213502 |
 |       (Usuario)  | U202221876 |
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
@@ -39,9 +39,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## Project Report Collaboration Insights
 
+
 URL del repositorio para el reporte del proyecto:
 
 https://github.com/Nato0211/HealthLife.git
+
 
 
 **TB1**
@@ -59,7 +61,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 Los integrantes son:
 
--  Reyes Valenzuela Renato German| (Nato0211)
+- Reyes Valenzuela Renato German| (Nato0211)
 - Luza Carhuamaca, Jose Adrian | (Adrianluza1)
 -  | (Usuario)
 -  | (Usuario)
@@ -152,7 +154,9 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     </tr>
     <tr align="center">
         <td rowspan="3">
+
             <img src="AaronCruz.png" alt="AaronCruzPhoto" style="margin-bottom: 5px;" width="800"/>
+
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -195,9 +199,33 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
         <b>Acerca de:</b>
         <br>
+
          Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada dia para superarme más y aprender nuevas cosas.
         </td>
     </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            U(Nombre aqui)
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        (Texto aqui)
+        </td>
     </tr>
      
 </table>
