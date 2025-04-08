@@ -22,9 +22,9 @@ width=50%"/>
 
 |                Nombre                 |   Código   |
 | :-----------------------------------: | :--------: |
-| (Usuario) | U202224149 |
-|     Luza Carhuamaca, Jose Adrian      | U202213404 |
-|   (Usuario)  | U20211g296 |
+| Reyes Valnzuela, Renato German | U20221B471 |
+|  Luza Carhuamaca, Jose Adrian      | U202213404 |
+|  Cruz Ticona, Aaron Alejandro | U202213502 |
 |       (Usuario)  | U202221876 |
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
@@ -39,7 +39,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: 
+
+URL del repositorio para el reporte del proyecto:
+
+https://github.com/Nato0211/HealthLife.git
 
 
 
@@ -58,7 +61,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 Los integrantes son:
 
--  | (Usuario)
+- Reyes Valenzuela Renato German| (Nato0211)
 - Luza Carhuamaca, Jose Adrian | (Adrianluza1)
 -  | (Usuario)
 -  | (Usuario)
@@ -108,7 +111,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            Bohorquez Lerzundi, Gerardo Sebastián
+            Reyes Valenzuela Renato German
         </td>
     </tr>
     <tr>
@@ -122,7 +125,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
         <b>Acerca de:</b>
         <br> 
-   (Texto aqui)
+            Mi nombre es Renato German Reyes Valenzuela y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.
         </td>
     </tr>
     <tr align="center">
@@ -151,12 +154,14 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+
+            <img src="AaronCruz.png" alt="AaronCruzPhoto" style="margin-bottom: 5px;" width="800"/>
+
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>
-            (Texto aqui)
+            Cruz Ticona, Aaron Alejandro
         </td>
     </tr>
     <tr>
@@ -170,17 +175,17 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        (Texto aqui)
+        Mi nombre es Aaron Cruz, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable y en especial, con ganas de ampliar mis conocimientos mientras desarrollamos el proyecto en compañia de un trabajo colaborativo eficaz.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt=""  style="margin-bottom: 5px;" width="800"/>
+            <img src="Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
             <br>
-            (Texto aqui)
+            Mathias Vasquez
         </td>
     </tr>
     <tr>
@@ -194,7 +199,8 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
         <b>Acerca de:</b>
         <br>
-         (Texto aqui)
+
+         Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada dia para superarme más y aprender nuevas cosas.
         </td>
     </tr>
     <tr align="center">
@@ -258,29 +264,105 @@ Este enfoque limitado afecta significativamente los resultados en la pérdida de
 
 <div id='1.2.2.1.'><h5> 1.2.2.1. Lean UX Problem Statements</h5></div>
 
+Nuestro servicio se enfoca en promover el bienestar y la salud a través de una aplicación que permite a los usuarios registrar actividades como la alimentación y el ejercicio para llevar un seguimiento constante de su progreso.
+
+Hemos identificado un desafío crítico que afecta la efectividad del servicio y la satisfacción del usuario: la falta de constancia y motivación para registrar las actividades diariamente. A pesar de los múltiples métodos de registro que existen, muchas personas no logran mantener un registro continuo, lo que reduce su progreso.
+
+¿Cómo podemos mejorar la constancia de los usuarios en el registro de sus actividades diarias y, al mismo tiempo, incrementar su motivación para mantener un seguimiento regular de su bienestar, logrando que se sientan más comprometidos y satisfechos con el servicio?
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
+**Business Assumptions**<br>
+
+- Creemos que nuestros usuarios necesitan una manera más eficiente y personalizada de gestionar su bienestar físico y mental.
+- Estas necesidades se pueden resolver mediante el uso de una aplicación web que registre y analice actividades diarias como ejercicio, alimentación y sueño, ofreciendo recomendaciones personalizadas basadas en estos datos.
+- Los usuarios iniciales son personas activas o que desean mejorar su salud y bienestar mediante el seguimiento y análisis de sus actividades diarias.
+- El valor #1 que un usuario busca en el servicio es la capacidad de tener un control integral sobre su bienestar, con información y recomendaciones que les permitan alcanzar sus objetivos de salud de manera efectiva.
+- El usuario también puede obtener beneficios adicionales con funcionalidades como el seguimiento de metas, alertas para hábitos saludables, y la integración con dispositivos de fitness, lo que les permitirá mejorar su estilo de vida de manera continua y holística.
+- Vamos a adquirir la mayoría de los usuarios a través de campañas de marketing digital, asociaciones con gimnasios y nutricionistas, y la creación de contenido educativo sobre salud y bienestar que aumente la visibilidad de la aplicación.
+- Se hará dinero a través de las ventas de suscripciones a diferentes niveles de acceso a la plataforma, incluyendo planes premium con características avanzadas y personalización adicional.
+  -Nuestra competencia principal en el mercado serán otras aplicaciones de bienestar que no ofrecen una personalización profunda o que carecen de análisis detallados de actividades diarias.
+- Los superaremos mediante el uso de tecnologías avanzadas de análisis de datos, un enfoque centrado en el usuario, y la integración con múltiples dispositivos y plataformas, ofreciendo un servicio que se adapta continuamente a las necesidades de los usuarios.
+- Nuestro mayor riesgo es la falta de adherencia por parte de los usuarios, quienes podrían desmotivarse si no ven resultados rápidos o si la aplicación es demasiado compleja de usar.
+- Resolveremos esto mediante un diseño intuitivo y motivador, además de proporcionar guías y soporte continuo para que los usuarios puedan aprovechar al máximo la aplicación desde el primer día.
+
+**Assumptions worksheet**<br>
+
+- ¿Quién es el usuario?
+  Personas activas o que buscan mejorar su salud y bienestar mediante el seguimiento de sus actividades diarias.\*\*
+- ¿Dónde encaja nuestro producto en su vida?
+  Nuestra aplicación se integra en la vida diaria de los usuarios para registrar y analizar sus actividades de ejercicio, alimentación y sueño, ofreciendo recomendaciones que los ayudan a mejorar su bienestar general.\*\*
+- ¿Qué problemas tiene nuestro producto? ¿Resolver?
+  La falta de motivación y adherencia a largo plazo puede ser un desafío para algunos usuarios. También, la complejidad de uso podría desanimar a usuarios menos tecnológicos.
+- ¿Cuándo y cómo es nuestro producto usado?
+  La aplicación se utiliza a diario para registrar actividades, revisar gráficos de progreso, y recibir recomendaciones personalizadas. Los usuarios pueden acceder a ella desde cualquier dispositivo conectado a internet.
+- ¿Qué características son importantes?
+  Personalización de recomendaciones, integración con dispositivos de fitness, accesibilidad en múltiples plataformas, gráficos de progreso intuitivos, y alertas automáticas para hábitos saludables.
+- ¿Cómo debe verse nuestro producto y cómo comportarse?
+  Debe tener un diseño limpio, motivador y fácil de usar, con una interfaz que promueva la acción y el seguimiento continuo. La aplicación debe ser rápida, fiable y ofrecer una experiencia de usuario fluida en cualquier dispositivo.
 
 
 <div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements.</h5></div>
 
+- Creemos que al implementar un sistema de recompensas por cumplir con metas de actividad diaria, los usuarios estarán más motivados para mantener un registro constante en la aplicación de bienestar y salud. Sabremos que estamos en lo correcto cuando veamos un aumento del 20% en la cantidad de metas alcanzadas por los usuarios.
+
+- Creemos que al integrar gráficos de progreso más visuales y fáciles de entender, los usuarios se sentirán más incentivados a continuar registrando sus actividades diarias. Sabremos que estamos en lo correcto cuando veamos un incremento del 15% en la frecuencia con la que los usuarios revisan su progreso, medido a través de métricas de interacción con los gráficos.
+
+- Creemos que al ofrecer recomendaciones personalizadas basadas en los patrones de actividad y preferencias individuales, los usuarios encontrarán más valor en la aplicación y serán más constantes en su uso. Sabremos que estamos en lo correcto cuando veamos un aumento del 25% en la tasa de adopción de las recomendaciones sugeridas por la aplicación.
 
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
+![Lean UX Canvas](Img/LeanUXCanvasHealthLife.png)
 
 <div id='1.3.'><h3> 1.3. Segmentos objetivos</h3></div>
 
-(Texto aqui)
+**Segmento 1: Abogados Especializados en Derecho Médico**
 
-● Segmento demográfico
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y Femenino
+- **Edad:** Entre 30 y 55 años
+- **Nivel Socioeconómico:** Clases A y B (Clase alta y clase media alta)
+- **Ocupación:** Abogados especializados en derecho médico o aquellos en proceso de especialización.
+  
+**Aspectos Geográficos:**
+- **Nacionalidad:** Peruana
+- **Zona Geográfica de Residencia:** Urbana
+- **Departamento:** Lima Metropolitana
 
+**Aspectos Psicográficos:**
 
-● Segmento geográfico
+- Abogados con un alto nivel de compromiso con su especialización en derecho médico.
+- Abogados que buscan herramientas tecnológicas que permita gestionar la carga de trabajo.
+- Profesionales que valoran la actualización constante sobre legislación en el campo médico.
+- Abogados que priorizan la eficiencia, la seguridad y la confidencialidad en la comunicación con clientes.
 
+**Aspectos Conductuales:**
+- **Uso de tecnología:** Utilizan herramientas digitales para gestionar casos y están abiertos a nuevas soluciones tecnológicas que mejoren su eficiencia.
+- **Preferencias de trabajo:** Prefieren soluciones de software que les permitan trabajar de forma remota o gestionar sus casos desde una perspectiva moderna.
+- **Comportamiento de compra:** Dispuestos a pagar servicios que mejoren su eficiencia y les proporcionen acceso a información de alta calidad.
 
-● Segmento psicográfico
+<br>
 
+**Segmento 2: Doctores que Enfrentan Problemas Legales por Mala Praxis**
 
-● Segmento Conductual
+**Aspectos Demográficos:**
+- **Sexo:** Masculino y Femenino
+- **Edad:** Entre 35 y 60 años
+- **Nivel Socioeconómico:** Clases A y B (Clase alta y clase media alta)
+- **Ocupación:** Médicos de diversas especialidades.
 
+**Aspectos Geográficos:**
+- **Nacionalidad:** Peruana
+- **Zona Geográfica de Residencia:** Urbana
+- **Departamento:** Lima Metropolitana.
+
+**Aspectos Psicográficos:**
+- Médicos que buscan defensa legal especializada en su campo y valoran la atención personalizada de abogados con experiencia en su especialidad médica.
+- Profesionales del sector salud que priorizan la confidencialidad, la confianza y la seguridad en las comunicaciones legales.
+- Médicos que están comprometidos con la resolución rápida y eficiente de los problemas legales que enfrentan, sin comprometer su integridad profesional.
+
+**Aspectos Conductuales:**
+- **Preocupación por la reputación profesional:** Tienen un alto nivel de preocupación por su imagen profesional.
+- **Uso de tecnología:** Abiertos a plataformas digitales que les proporcionen acceso a abogados especializados para manejar sus preocupaciones.
+- **Comportamiento de compra:** Dispuestos a invertir en servicios legales especializados.
