@@ -83,7 +83,16 @@ Los integrantes son:
    1.2.2.3 [Lean UX Hypothesis Statements.](#1.2.2.3.)<br>
    1.2.2.4 [Lean UX Canvas.](#1.2.2.4.)<br>
    1.3. [Segmentos objetivo.](#1.3.)<br>
-
+2. [**Capítulo II: Requirements Elicitation & Analysis.**](#2.)<br>
+   2.1. [Competidores.](#2.1.)<br>
+   2.1.1. [Análisis competitivo.](#2.1.1.)<br>
+   2.1.2. [Estrategias y tácticas frente a competidores.](#2.1.2.)<br>
+   2.2. [Entrevistas.](#2.2.)<br>
+   2.3. [Needfinding.](#2.3.)<br>
+   2.3.1. [User Personas.](#2.3.1.)<br>
+   2.3.2. [User Task Matrix.](#2.3.2.)<br>
+   2.3.3. [Empathy Mapping.](#2.3.3.)<br>
+   2.3.5. [As-is Scenario Mapping.](#2.3.5.)<br>
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
@@ -109,7 +118,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     <!-- Integrante 1 -->
     <tr>
         <td rowspan="3" style="width: 300px;">
-            <img src="" alt="Foto de Renato" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/RenatoReyesFoto.PNG" alt="Foto de Renato" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -153,7 +162,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
 
    <tr>
         <td rowspan="3">
-            <img src="AaronCruz.png" alt="Aaron Cruz" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/AaronCruz.png" alt="Aaron Cruz" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -175,7 +184,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
 
    <tr>
         <td rowspan="3">
-            <img src="Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -192,28 +201,6 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
             <b>Acerca de:</b><br>
             Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada día para superarme más y aprender nuevas cosas.
-        </td>
-    </tr>
-
-   <tr>
-        <td rowspan="3">
-            <img src="" alt="Foto del integrante" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b><br>
-            (Nombre aquí)
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Carrera:</b><br>
-            Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Acerca de:</b><br>
-            (Texto aquí)
         </td>
     </tr>
 </table>
@@ -357,19 +344,119 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 - **Comportamiento de compra:** Dispuestos a invertir en servicios legales especializados.
 
 
-<div id='1.'><h2>Capítulo II: Requirements & Analysis</h2></div>
+<div id='2.'><h2>Capítulo II: Requirements & Analysis</h2></div>
 
-<div id='1.2.'><h3> 2.1. Competidores.</h3></div>
+<div id='2.1.'><h3> 2.1. Competidores.</h3></div>
 
-<div id='1.2.'><h3> 2.2. Entrevistas.</h3></div>
+En esta sección, iniciaremos con en el proceso de identificar y comprender los requisitos necesarios para el servicio. Este proceso implica técnicas como entrevistas y análisis de datos para recopilar información relevante de los usuarios y stakeholders. Luego, estos requisitos se analizan y priorizan para convertirlos en especificaciones claras y alcanzables que guíen el desarrollo del servicio. Este enfoque es fundamental para asegurar que el producto final satisfaga las necesidades y requerimientos que puede tener el usuario y cumpla con los objetivos del negocio de manera efectiva.
 
-<div id='1.2.'><h3> 2.3. Needfinding.</h3></div>
+<div id='2.1.1.'><h4> 2.1.1. Análisis competitivo.</h4></div>
+<br>
 
-<div id='1.2.2.'><h4> 2.3.1. User Personas</h4></div>
+Estos son:
 
-<div id='1.2.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+<br><br>
 
-<div id='1.2.2.'><h4> 2.3.3. Empathy Maps</h4></div>
+- **Competidor 1:**
+    <br>
+  Nombre: Cronometer
+  <br>
+  Descripción: Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.
+  <br><br>
 
-<div id='1.2.2.'><h4> 2.3.4. As-is Scenario Mapping</h4></div>
+Características: Posee un registro para ver el progreso de tus actividades físicas y tu alimentación.
+Canal de distribución principal: Web <br>
+
+Posee un registro para ver el progreso de tus actividades físicas y tu alimentación
+
+  <br>
+
+<div align="center">
+
+  <img src="Img/Lost Target.png">
+
+</div>
+
+<br><br>
+
+- **Competidor 2:**
+  <br>
+  Nombre: Lose it!
+  <br>
+  Descripción: Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.
+  <br>
+  Características: Enfocado más en la pérdida de peso mediante el registro de calorías diarias
+
+Canal de distribución principal: Web <br>
+
+Enfocado más en la pérdida de peso mediante el registro de calorías diarias
+<br>
+
+<div align="center">
+
+  <img src="Img/weight-watchers.png">
+
+</div>
+
+<br><br>
+
+- **Competidor 3:**
+  
+  <br>
+  Nombre: Spark People
+  <br>
+  Descripción: Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.<br>
+
+Características: Canal de distribución principal: Web <br>
+
+Comunidad altamente activa y la ayuda mutua de los clientes mediante recomendaciones de alimentación o rutinas de ejercicios
+<br>
+
+<div align="center">
+
+  <img src="Img/MyFitnessPal.png">
+
+</div>
+<br><br>
+
+| Aspecto                      | **NutriMove** <br> <img src="Img/HealthLife.jpg" alt="Logo width=10 NutriMove" width="120">                                                                                                                                     | **Cronometer** <br> <img src="Img/Lost Target.png" alt="Logo Cronometer">                                                                                     | **Lose It!** <br> <img src="Img/weight-watchers.png" alt="Logo Loseit">                                                                                               | **SparkPeople** <br> <img src="Img/MyFitnessPal.png" alt="Logo Spark People">                                                                                                             |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Overview**                 | Sitio web diseñado para ayudar a los usuarios a llevar un registro detallado de sus actividades diarias relacionadas con la alimentación y el ejercicio.                                             | Sitio web que permite a los usuarios hacer un seguimiento detallado de su ingesta de alimentos y nutrientes, así como de sus actividades físicas.                 | Sitio web dedicado a ayudar a los usuarios a perder peso y mantener un estilo de vida saludable mediante el seguimiento de calorías y actividades físicas.        | Sitio web que ofrece herramientas de seguimiento de salud y fitness, junto con una comunidad activa para el soporte mutuo.                                                              |
+| **Ventaja Competitiva**      | Personalización profunda que ofrece en las recomendaciones de salud y bienestar, utilizando datos recogidos de la actividad diaria de los usuarios.                                                  | Enfoque en la precisión del seguimiento de micronutrientes y base de datos científica.                                                                            | Simplicidad y enfoque en la pérdida de peso.                                                                                                                      | Comunidad activa y soporte social, lo que fomenta la motivación y la adherencia a los programas de salud y bienestar.                                                                   |
+| **Mercado Objetivo**         | Personas preocupadas por su alimentación y personas que desean llevar un control de sus entrenamientos.                                                                                              | Usuarios interesados en un control detallado de su dieta y usuarios preocupados por su salud general.                                                             | Personas que desean perder peso de manera sencilla.                                                                                                               | Personas que buscan perder peso, mejorar su salud general, y aquellos que valoran el soporte comunitario en su búsqueda de bienestar.                                                   |
+| **Estrategias de Marketing** | Campañas digitales dirigidas, utilizando redes sociales, publicidad en motores de búsqueda, y marketing de contenido para atraer a usuarios que busquen mejorar su salud.                            | Publicidad, marketing de contenidos que resalta la precisión y el rigor científico de su plataforma, y colaboración con profesionales de la salud y la nutrición. | Publicidad en redes sociales, marketing de afiliación, y colaboraciones con influencers en el ámbito del fitness y la pérdida de peso.                            | Publicidad digital, y programas de afiliación que incentivan la participación comunitaria.                                                                                              |
+| **Productos & Servicios**    | Registro diario de actividades, gráficos de progreso, recomendaciones personalizadas y planes de salud personalizados.                                                                               | Seguimiento de alimentos, actividades, peso, análisis de nutrientes, informes detallados de salud, sincronización con aplicaciones y dispositivos de fitness.     | Seguimiento de calorías, análisis de nutrientes, sincronización con dispositivos de fitness, planes de pérdida de peso, recetas saludables, y foros comunitarios. | Seguimiento de calorías y ejercicio, planes de dieta, artículos y recursos educativos, desafíos de fitness, recetas saludables, y una red social para compartir logros y recibir apoyo. |
+| **Precios & Costos**         | Por un costo de $4.99 al mes por alimentación o ejercicio, $8.99 por ambos planes.                                                                                                                   | Versión gratuita con características básicas, y una versión premium (Cronometer Gold) por $5.99 al mes o $34.95 al año.                                           | Versión gratuita con funcionalidades básicas, y una versión premium (Lose It! Premium) por $39.99 al año.                                                         | Acceso básico gratuito, pero también ofrecen una versión premium por $4.99 al mes o $29.99 al año.                                                                                      |
+| **Canales de Distribución**  | Aplicación accesible a través de un sitio web.                                                                                                                                                       | Disponible en la web y como una aplicación móvil, accesible a través de suscripción online.                                                                       | Disponible a través de su sitio web y como una aplicación móvil.                                                                                                  | Disponible en la web y a través de una aplicación móvil.                                                                                                                                |
+| **Fortalezas**               | La aplicación ofrece recomendaciones y planes personalizados que se adaptan a las necesidades individuales de los usuarios, y diseño intuitivo que facilita el uso diario de la aplicación.          | Precisión y profundidad en el seguimiento de nutrientes, base de datos científicamente respaldada y confianza de los profesionales de la salud.                   | Interfaz amigable y fácil de usar, enfoque específico en la pérdida de peso, y una comunidad activa.                                                              | Comunidad sólida y activa, gran cantidad de recursos educativos, y una interfaz fácil de usar.                                                                                          |
+| **Debilidades**              | El mercado de aplicaciones de bienestar y salud es altamente competitivo, el éxito de la aplicación depende en gran medida de la constancia y motivación del usuario para registrar sus actividades. | Interfaz poco amigable para usuarios casuales, y versión gratuita con limitaciones significativas.                                                                | Menor profundidad en el análisis de nutrientes en comparación con otros competidores, y la versión gratuita tiene menos funcionalidades.                          | La versión gratuita posee anuncios y menos funcionalidades, y algunas partes de la interfaz pueden parecer anticuadas.                                                                  |
+| **Oportunidades**            | Crecimiento en mercados de habla hispana, y posibilidad de asociarse con nutricionistas y entrenadores personales para ofrecer servicios complementarios.                                            | Expansión en mercados internacionales y integración con más dispositivos de fitness.                                                                              | Ampliación de las funcionalidades de la versión gratuita, expansión en mercados, y desarrollo de integraciones con más dispositivos de fitness.                   | Mejorar la interfaz y la experiencia de usuario, expandir la comunidad a nivel internacional, y desarrollar más contenido exclusivo para miembros premium.                              |
+| **Amenazas**                 | Aparición constante de nuevas aplicaciones y servicios en el mercado, y riesgo de que los usuarios pierdan interés si no ven resultados rápidos o si encuentran la aplicación complicada de usar.    | Competencia de aplicaciones y sitios web con interfaces más amigables o con comunidades más grandes.                                                              | Alta competencia en el mercado de pérdida de peso, con la entrada constante de nuevas aplicaciones y servicios similares.                                         | La competencia de otras plataformas con comunidades igualmente grandes o con mejor tecnología.                                                                                          |
+
+
+
+
+
+
+
+
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores.</h4></div>
+
+Con respecto a Cronometer: Nuestra aplicación puede competir ofreciendo una interacción más amigable con el usuario. Cronometer presenta una interfaz poco amigable y difícil de comprender para nuevos usuarios, además de que su versión gratuita limita considerablemente las funcionalidades disponibles. Por lo tanto, nuestra estrategia será proveer una interfaz más intuitiva y accesible.
+
+En comparación con LoseIt: LoseIt no es tan específico en el análisis profundo de nutrientes diarios, y su versión gratuita ofrece funcionalidades limitadas. Nuestra estrategia incluirá una mayor especificación en el seguimiento de nutrientes y más funcionalidades en la versión gratuita para captar la atención del público.
+
+Frente a SparkPeople: Esta plataforma tiene una interfaz poco atractiva y ofrece pocas funcionalidades en su versión gratuita, además de incluir anuncios que pueden resultar molestos para los usuarios. Nuestra estrategia consistirá en diseñar una aplicación web atractiva y cómoda para nuestros usuarios, minimizando el uso de anuncios intrusivos.
+
+<div id='2.2.'><h3> 2.2. Entrevistas.</h3></div>
+
+<div id='2.3.'><h3> 2.3. Needfinding.</h3></div>
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas</h4></div>
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+<div id='2.3.4.'><h4> 2.3.3. Empathy Maps</h4></div>
+
+<div id='2.3.5.'><h4> 2.3.4. As-is Scenario Mapping</h4></div>
 
