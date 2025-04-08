@@ -27,7 +27,7 @@ width=50%"/>
 |  Cruz Ticona, Aaron Alejandro | U202213502 |
 |       (Usuario)  | U202221876 |
 
-<h5 style="text-align: center"> Ciclo 2024-02 </h5>
+<h5 style="text-align: center"> Ciclo 2025-01 </h5>
 
 # Registro de Versiones del Informe
 
@@ -109,7 +109,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     <!-- Integrante 1 -->
     <tr>
         <td rowspan="3" style="width: 300px;">
-            <img src="" alt="Foto de Renato" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/RenatoReyesFoto.PNG" alt="Foto de Renato" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -131,7 +131,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
 
    <tr>
         <td rowspan="3">
-            <img src="Img/jose-photo.png" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/FotoJose.png" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -175,7 +175,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
 
    <tr>
         <td rowspan="3">
-            <img src="Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
+            <img src="Img/Fotodeperfil.jpg" alt="Mathias Vasquez" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b><br>
@@ -192,28 +192,6 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
         <td align="left">
             <b>Acerca de:</b><br>
             Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada día para superarme más y aprender nuevas cosas.
-        </td>
-    </tr>
-
-   <tr>
-        <td rowspan="3">
-            <img src="" alt="Foto del integrante" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b><br>
-            (Nombre aquí)
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Carrera:</b><br>
-            Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-            <b>Acerca de:</b><br>
-            (Texto aquí)
         </td>
     </tr>
 </table>
