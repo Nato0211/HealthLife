@@ -176,7 +176,7 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt=""  style="margin-bottom: 5px;" width="800"/>
+            <img src="Fotodeperfil.jpg" alt=""  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
@@ -198,29 +198,6 @@ Posicionarnos como la aplicación de referencia en el ámbito del bienestar pers
          Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable y en especial, con ganas de ampliar mis conocimientos mientras desarrollamos el proyecto en compañia de un trabajo colaborativo eficaz.
         </td>
     </tr>
-    <tr align="center">
-        <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            U(Nombre aqui)
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        (Texto aqui)
-        </td>
     </tr>
      
 </table>
@@ -308,6 +285,7 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas.</h5></div>
 
+<img   src="LeanUXCanvasHealthLife.png" alt="lean ux canvas">
 
 <div id='1.3.'><h3> 1.3. Segmentos objetivos</h3></div>
 
