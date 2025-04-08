@@ -355,3 +355,21 @@ Hemos identificado un desafío crítico que afecta la efectividad del servicio y
 - **Preocupación por la reputación profesional:** Tienen un alto nivel de preocupación por su imagen profesional.
 - **Uso de tecnología:** Abiertos a plataformas digitales que les proporcionen acceso a abogados especializados para manejar sus preocupaciones.
 - **Comportamiento de compra:** Dispuestos a invertir en servicios legales especializados.
+
+
+<div id='1.'><h2>Capítulo II: Requirements & Analysis</h2></div>
+
+<div id='1.2.'><h3> 2.1. Competidores.</h3></div>
+
+<div id='1.2.'><h3> 2.2. Entrevistas.</h3></div>
+
+<div id='1.2.'><h3> 2.3. Needfinding.</h3></div>
+
+<div id='1.2.2.'><h4> 2.3.1. User Personas</h4></div>
+
+<div id='1.2.2.'><h4> 2.3.2. User Task Matrix</h4></div>
+
+<div id='1.2.2.'><h4> 2.3.3. Empathy Maps</h4></div>
+
+<div id='1.2.2.'><h4> 2.3.4. As-is Scenario Mapping</h4></div>
+
