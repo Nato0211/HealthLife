@@ -101,134 +101,123 @@ Brindar a los usuarios el poder de gestionar su bienestar físico y mental a tra
 Posicionarnos como la aplicación de referencia en el ámbito del bienestar personal, reconocida internacionalmente por su innovación y capacidad para adaptar sus soluciones a las necesidades individuales de cada usuario, promoviendo así una mejor calidad de vida.
 
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+<div id='1.1.2.'>
+    <h4>1.1.2. Perfiles de los integrantes del equipo</h4>
+</div>
 
-<table align="center"  border="1" width="70%" style="text-align:center;">
-    <tr align="center">
-        <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/> 
+<table border="1" width="70%" style="margin: auto; text-align: center; border-collapse: collapse;">
+    <!-- Integrante 1 -->
+    <tr>
+        <td rowspan="3" style="width: 300px;">
+            <img src="" alt="Foto de Renato" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
+            <b>Nombre y Apellido:</b><br>
             Reyes Valenzuela Renato German
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+            <b>Carrera:</b><br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br> 
-            Mi nombre es Renato German Reyes Valenzuela y tengo 23 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.
+            <b>Acerca de:</b><br>
+            Mi nombre es Renato German Reyes Valenzuela y tengo 23 años. Soy estudiante de la carrera de Ingeniería de Software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avanzar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.
         </td>
     </tr>
-    <tr align="center">
+
+   <tr>
         <td rowspan="3">
-            <img src="Img/jose-photo.png" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/jose-photo.png" alt="Luza Carhuamaca, Jose Adrian" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
+            <b>Nombre y Apellido:</b><br>
             Luza Carhuamaca, Jose Adrian
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+            <b>Carrera:</b><br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-       Me llamo Jose Luza, estoy en el 7mo ciclo de la carrera de Ingeniería de Software. Me gusta la idea de que con la programación se pueden llegar a crear muchas cosas útiles. Soy una persona ágil, responsable y transparente que trabaja bien en equipo. 
+            <b>Acerca de:</b><br>
+            Me llamo Jose Luza, estoy en el 7mo ciclo de la carrera de Ingeniería de Software. Me gusta la idea de que con la programación se pueden llegar a crear muchas cosas útiles. Soy una persona ágil, responsable y transparente que trabaja bien en equipo.
         </td>
     </tr>
-    <tr align="center">
+
+   <tr>
         <td rowspan="3">
-
-            <img src="AaronCruz.png" alt="AaronCruzPhoto" style="margin-bottom: 5px;" width="800"/>
-
+            <img src="AaronCruz.png" alt="Aaron Cruz" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
+            <b>Nombre y Apellido:</b><br>
             Cruz Ticona, Aaron Alejandro
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+            <b>Carrera:</b><br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Mi nombre es Aaron Cruz, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable y en especial, con ganas de ampliar mis conocimientos mientras desarrollamos el proyecto en compañia de un trabajo colaborativo eficaz.
+            <b>Acerca de:</b><br>
+            Mi nombre es Aaron Cruz, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable y en especial, con ganas de ampliar mis conocimientos mientras desarrollamos el proyecto en compañía de un trabajo colaborativo eficaz.
         </td>
     </tr>
-    <tr align="center">
+
+   <tr>
         <td rowspan="3">
-            <img src="Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px;" width="800"/>
+            <img src="Fotodeperfil.png" alt="Mathias Vasquez" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
-            <b>Nombre y Apellido: </b>
-            <br>
+            <b>Nombre y Apellido:</b><br>
             Mathias Vasquez
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+            <b>Carrera:</b><br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
+            <b>Acerca de:</b><br>
+            Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada día para superarme más y aprender nuevas cosas.
+        </td>
+    </tr>
 
-         Mi nombre es Mathias Vasquez, estoy cursando el 7mo ciclo, me considero una persona abierta a nuevas experiencias, responsable. Siempre me esfuerzo cada dia para superarme más y aprender nuevas cosas.
-        </td>
-    </tr>
-    <tr align="center">
+   <tr>
         <td rowspan="3">
-            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+            <img src="" alt="Foto del integrante" style="margin-bottom: 5px; width: 100%; max-width: 300px;" />
         </td>
         <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            U(Nombre aqui)
+            <b>Nombre y Apellido:</b><br>
+            (Nombre aquí)
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
+            <b>Carrera:</b><br>
+            Ingeniería de Software
         </td>
     </tr>
     <tr>
         <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        (Texto aqui)
+            <b>Acerca de:</b><br>
+            (Texto aquí)
         </td>
     </tr>
-     
 </table>
+
 <div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
 
